@@ -1,0 +1,37 @@
+_repo: The-Mission-Of-Mr.-Eustace-Greyne1905_23415
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hichens, Robert
+    aliases:
+    - Hichens, Robert S. (Robert Smythe)
+    - Hichens, Robert Smythe
+    birthdate: 1864
+    deathdate: 1950
+    gutenberg_agent_id: '919'
+    url: http://www.gutenberg.org/2009/agents/919
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Smythe_Hichens
+description: ''
+gutenberg_issued: '2007-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23415'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Fiction'
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Algiers (Algeria) -- Fiction'
+- !lcsh 'Women authors -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Governesses -- Fiction'
+- !lcc 'PR'
+title: 'The Mission Of Mr. Eustace Greyne
+
+  1905'
+url: http://www.gutenberg.org/ebooks/23415
